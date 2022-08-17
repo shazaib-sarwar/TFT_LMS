@@ -9,5 +9,4 @@ export class AssignmentService {
     return `This action returns all assignment`;
   }
 
-
 }
